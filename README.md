@@ -1,8 +1,7 @@
 ## Handwritten Digit Recognition: Preprocessing, EDA & Model Training
 
 > **Dataset:** UCI Optical Recognition of Handwritten Digits (Optdigits)  
-> **Task:** 10-class classification (digits 0–9) from 8×8 pixel-block features  
-> **Module:** IT2011 — Artificial Intelligence and Machine Learning, Progress Review I
+> **Task:** 10-class classification (digits 0–9) from 8×8 pixel-block features 
 
 ---
 
