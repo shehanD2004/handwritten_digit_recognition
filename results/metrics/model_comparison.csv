@@ -1,0 +1,7 @@
+model,selected_variant,cv_accuracy,cv_macro_f1,test_accuracy,test_precision_macro,test_recall_macro,test_macro_f1,source_notebook
+K-Nearest Neighbors,Raw pixels,0.985089,0.985166,0.977741,0.978332,0.977554,0.977734,KNearestNeighbors.ipynb
+Logistic Regression,Before IQR outlier removal,0.971228,0.971233,0.952699,0.953776,0.952565,0.952761,LogisticRegression.ipynb
+Decision Tree,Before duplicate removal (tied with after),0.897983,0.898244,0.856427,0.858284,0.856400,0.856188,DecisionTree.ipynb
+RBF SVC,MinMax scaled,0.991106,0.991127,0.979967,0.980314,0.979820,0.979877,SVC.ipynb
+MLPClassifier,MinMax scaled + PCA 95%,0.972534,0.972587,0.957707,0.959144,0.957619,0.957887,MLP_PCA.ipynb
+Random Forest,VarianceThreshold(threshold=0.05),0.981689,0.981762,0.972176,0.972620,0.972150,0.972205,RandomForest.ipynb
