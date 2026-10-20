@@ -1,4 +1,3 @@
-# IT2011 — Artificial Intelligence and Machine Learning
 ## Handwritten Digit Recognition: Preprocessing, EDA & Model Training
 
 > **Dataset:** UCI Optical Recognition of Handwritten Digits (Optdigits)  
